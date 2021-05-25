@@ -4,7 +4,9 @@
 
 Ивана Попеска, број на индекс 193111
 
-1. 
+1.Control Flow Graph
+
+![43266666666666666435](https://user-images.githubusercontent.com/80625149/119534239-f8a8a000-bd86-11eb-83dc-4f27a0f08000.png)
 
 2.Multiple conditions
 
