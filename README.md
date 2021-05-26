@@ -7,6 +7,8 @@
 1.Control Flow Graph
 
 ![43266666666666666435](https://user-images.githubusercontent.com/80625149/119534239-f8a8a000-bd86-11eb-83dc-4f27a0f08000.png)
+Цикломатска комплексност е 8 и ја добив од формулата P + 1, каде P 
+претставува број на предикатни јазли и изнесува 7.
 
 2.Multiple conditions
 
